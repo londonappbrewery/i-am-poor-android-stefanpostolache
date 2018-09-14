@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3FF1B4</color>
-    <color name="colorPrimaryDark">#1b2426</color>
+    <color name="colorPrimaryDark">#95a5a6</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="CoalLight">#858d97</color>
+    <color name="coalLight">#858d97</color>
+    <color name="silver">#bdc3c7</color>
+    <color name="midnightBlue">#2c3e50</color>
+    <color name="concrete">#95a5a6</color>
 </resources>
